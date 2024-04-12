@@ -18,7 +18,7 @@ const Education = () => {
           <ResumeCard
             title="Btech in Computer Science and Engineering"
             subTitle="Galgotias University (2018 - 2022)"
-            result="7.49/10"
+            result="7.29/10"
             des="I am a  graduate with a Bachelor of Technology (B.Tech) degree in Computer Science and Engineering (CSE) from Galgotias University. Throughout my academic journey, I have acquired a strong foundation in computer science principles, engineering practices, and technological innovation, preparing me for a successful career in the dynamic field of technology."
           />
           <ResumeCard
