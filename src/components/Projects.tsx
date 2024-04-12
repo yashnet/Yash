@@ -12,7 +12,7 @@ const Projects = () => {
       <FadeIn>
         <div className="flex justify-center items-center text-center">
           <Title
-            // title=""
+            title=""
             des="My Projects"
           />
         </div>
