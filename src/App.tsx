@@ -4,7 +4,7 @@ import Feature from "./components/Feature";
 import Navbar from "./components/Navbar";
 import Projects from "./components/Projects";
 import Resume from "./components/Resume";
-import Title from "./components/Title";
+// import Title from "./components/Title";
 
 function App() {
   return (
@@ -17,7 +17,7 @@ function App() {
           <Projects />
           <Resume />
           <Contact />
-          <Title />
+          {/* <Title /> */}
         </div>
       </div>
     </main>
